@@ -1,7 +1,7 @@
 {
-    "name": "Kanna BOT",
+    "name": "Team Virtual",
     "version": "2.10.18",
-    "description": "RPG WhatsApp BOT",
+    "description": "WhatsApp BOT",
     "main": "index.js",
     "type": "module",
     "directories": {
