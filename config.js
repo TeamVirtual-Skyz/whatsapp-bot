@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/xinzuo_bot'
-global.sgh = 'https://github.com/DenzzHuangZhen'
+global.sig = 'https://www.instagram.com/putraskyz__'
+global.sgh = 'https://github.com/TeamVirtual-Skyz'
 global.sgc = 'https://chat.whatsapp.com/D8myLoppX2HJPHVzvKbxCa'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '-'
+global.pdana = '085882802642'
+global.povo = '085882802642'
 global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285848379210'
-global.nomorown = '6285642625763'
-global.namebot = 'xinzuo-bot'
-global.nameown = 'DenzzXDev Xinzuo'
+global.nomorbot = '17722223969'
+global.nomorown = '17722223969'
+global.namebot = 'TeamVirtual'
+global.nameown = 'Putra Skyz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285642625763'],
-  ['6285642625763'],
-  ['6285642625763'],
-  ['6285642625763', 'Dev Xinzuo', true]
+  ['17722223969'],
+  ['17722223969'],
+  ['17722223969'],
+  ['17722223969', 'Dev Putra Skyz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,19 +115,19 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Xinzuo あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xinzuo Chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Xinzuo 𝗕𝗢𝗧'
+global.wm = '                「 发 ᴘᴜᴛʀᴀ•⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Putra Skyz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '发 ᴘᴜᴛʀᴀ• 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🍁Publik BOT | 🌱Xinzuo'
+global.titlebot = '🇮🇩Publik BOT | 🧸Putra Skyz'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/63af6295deb2aac5ce9f3.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/f46873dabf227e87f3770.jpg'
+global.thumbbc = 'https://telegra.ph/file/2cc5e9e2c86417b89da20.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -169,12 +169,12 @@ global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO FREE ON MENU.JS
-global.htjava = '⫹⫺'    //hiasan Doang :v
+global.htjava = '⫹⫺'    //hiasan Doang :'v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎scraping xinzuo`
+global.stickauth = `☂︎Scraping Skyz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
