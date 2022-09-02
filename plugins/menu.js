@@ -222,7 +222,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 
 ® ${pmenus} DILARANG SPAM BOT | *JIKA BELUM BERDONASI*
 ® ${pmenus} GUNAKAN BOT SEBAIK MUNGKIN | *PASTI FAHAMLAH*
-® ${pmenus} OWNER ADALAH DEWA`, rowId: ".donasi", description: `${namebot}`},
+® ${pmenus} OWNER ADALAH RAJA`, rowId: ".donasi", description: `${namebot}`},
 	    //{title: ` ${pmenus} GUNAKAN BOT SEBAIK MUNGKIN`, description: "Pasti Fahamlah"},
 	    //{title: `🚥 ${pmenus} OWNER ADALAH DEWA`, description: `${namebot}`},
 	]
