@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ
+*ɴᴀᴍᴇ:* 发 ᴘᴜᴛʀᴀ• 🇮🇩
 *ᴀɢᴇ:* 20ᵗʰ
 *sᴛᴀᴛᴜs:* single 
 
 *ʙɪʀᴛʜᴅᴀʏ:* 21 Des 2002
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat, Bandung
+*ᴀᴅᴅʀᴇss:* Indonesia, Banten, Tangerang
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
@@ -33,9 +33,9 @@ let teksbio = `${htki} *BIODATA* ${htka}
 > CSS [5.1%]
 > Html [1.2%]
 
-📷 *Instagram:* ${sig}
-🐈 *Github:* ${sgh}
-🥏 *Whatsapp* wa.me/${nomorown}
+📷 *Instagram:* ${https://www.instagram.com/putraskyz__/}
+🐈 *Github:* ${https://github.com/TeamVirtual-Skyz/Whatsapp-bot}
+🥏 *Whatsapp* wa.me/${17722223969}
 
 `
   let teks = ' '
